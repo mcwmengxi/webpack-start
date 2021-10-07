@@ -1,0 +1,41 @@
+/*!**********************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js!../../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[2]!../../node_modules/less-loader/dist/cjs.js!./src/css/iconfont.css ***!
+  \**********************************************************************************************************************************************************************************************************/
+@font-face {
+  font-family: "iconfont";
+  src: url(../static/897f4479e5..eot);
+  /* IE9 */
+  src: url(../static/897f4479e5..eot#iefix) format('embedded-opentype'), /* IE6-IE8 */ url(../static/eaabd6f95c.) format('woff2'), url(../static/955d9a2215..woff) format('woff'), url(../static/6189950e0e..ttf) format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */ url(../static/1c714375fa..svg#iconfont) format('svg');
+  /* iOS 4.1- */
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-icon-test:before {
+  content: "\e633";
+}
+.icon-icon-test1:before {
+  content: "\e63a";
+}
+.icon-icon-test2:before {
+  content: "\e640";
+}
+.icon-icon-test3:before {
+  content: "\e644";
+}
+
+/*!********************************************************************************************************************************************************************************************************!*\
+  !*** css ../../node_modules/css-loader/dist/cjs.js!../../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[0].use[2]!../../node_modules/less-loader/dist/cjs.js!./src/css/index.less ***!
+  \********************************************************************************************************************************************************************************************************/
+#box {
+  width: 200px;
+  height: 200px;
+  background-image: url(../images/830bf3c820..jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
